@@ -56,7 +56,7 @@ I am currently building secure web applications while developing my skills in **
   <sub>2-player game with collision detection and scoring</sub>
 
 - ❌ **Tic Tac Toe Game (Python)**  
-  <sub>Logic-based game with win condition handling</sub>
+  <sub>Logic-based game with win condition handling ("https://github.com/shereketemunashe-ux/tic-tac-toe-repo")</sub>
 
 ---
 
