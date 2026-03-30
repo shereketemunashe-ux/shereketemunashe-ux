@@ -53,7 +53,7 @@ I am currently building secure web applications while developing my skills in **
   <sub>Detects unauthorized file changes using hashing ("https://github.com/shereketemunashe-ux/File-Integrity-Management-Tool")</sub>
 
 - 🏓 **Ping Pong Game (Python Turtle)**  
-  <sub>2-player game with collision detection and scoring</sub>
+  <sub>2-player game with collision detection and scoring ("https://github.com/shereketemunashe-ux/ping-pong-repo")</sub>
 
 - ❌ **Tic Tac Toe Game (Python)**  
   <sub>Logic-based game with win condition handling ("https://github.com/shereketemunashe-ux/tic-tac-toe-repo")</sub>
