@@ -50,7 +50,7 @@ I am currently building secure web applications while developing my skills in **
 ## 🛠 Projects
 
 - 🛡 **File Integrity Checker**  
-  <sub>Detects unauthorized file changes using hashing</sub>
+  <sub>Detects unauthorized file changes using hashing ("https://github.com/shereketemunashe-ux/File-Integrity-Management-Tool")</sub>
 
 - 🏓 **Ping Pong Game (Python Turtle)**  
   <sub>2-player game with collision detection and scoring</sub>
